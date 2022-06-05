@@ -1,0 +1,56 @@
+ body { background-image: url(../ProjRobson/projetobase/imagens/fundo5.jpg);
+    background-attachment: fixed;
+    margin-left: auto;
+    
+     
+}
+
+.foto {
+   padding-left: 28%;
+   padding-right: 0;
+   width: 40%;
+   height: 40%;
+     
+}
+
+#principal {
+    width: auto;
+}
+
+
+#menu {
+    padding: 10px;
+    padding-left: 19%;
+}
+
+a {
+    color:rgb(68, 202, 11) ;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px;
+}
+
+p {
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    text-align: justify;
+    font-variant:small-caps;
+    margin-block-start: 1.0em;
+    margin-block-end: 2.0em;
+    margin-inline-start: 1px;
+    margin-inline-end: 0px;
+    margin-left: 15px;
+    
+}
+
+h4{
+    color: yellow;
+    margin-left: 15px;
+}
+
+li{
+   margin-left: 40%;
+   font-weight: bold; 
+   color: white;
+}
